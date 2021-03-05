@@ -13,7 +13,7 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 - [Model Analysis](#Model-Analysis)
   * [Logistic Regression](#Logistic-Regression)
   * [Naive Bayes](#Naive-Bayes)
-  * [SGD/SVM](#SGD/SVM)
+  * [SGD/SVM](#SGD-and-SVM)
     + [Stochastic Gradient Descent](#Stochastic-Gradient-Descent)
     + [Support Vector Machines](#Support-Vector-Machines)
   * [Random Forests](#Random-Forests)
@@ -33,7 +33,7 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 ### Living Situation Analysis
 ### Lying Analysis
 ## Naive Bayes
-## SGD/SVM
+## SGD and SVM
 ### Stochastic Gradient Descent
 ### Support Vector Machines
 #### Gender Analysis
