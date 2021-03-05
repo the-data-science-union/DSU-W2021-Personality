@@ -7,7 +7,7 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 # Table of Contents
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
-- [Data Collection and Analysis](#Data Collection and Analysis)
+- [Data Collection and Analysis](# Data Collection and Analysis)
   * [Data Cleaning](##Data Cleaning)
   * [Data Analysis](##Data Analysis)
 - [Model Analysis](#Model Analysis)
