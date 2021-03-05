@@ -8,19 +8,17 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Data Collection and Analysis](#Data-Collection-and-Analysis)
-  * [Data Cleaning](##Data-Cleaning)
-  * [Data Analysis](##Data-Analysis)
+  * [Data Cleaning](#Data-Cleaning)
+  * [Data Analysis](#Data-Analysis)
 - [Model Analysis](#Model-Analysis)
-  * [Logistic Regression](##Logistic-Regression)
-  * [Naive Bayes](##Naive-Bayes)
-  * [SGD/SVM](##SGD/SVM)
-    + [Stochastic Gradient Descent](###Stochastic-Gradient-Descent)
-    + [Support Vector Machines](###Support-Vector-Machines)
-  * [Random Forests](##Random-Forests)
-  * [KNN](##KNN)
+  * [Logistic Regression](#Logistic-Regression)
+  * [Naive Bayes](#Naive-Bayes)
+  * [SGD/SVM](#SGD/SVM)
+    + [Stochastic Gradient Descent](#Stochastic-Gradient-Descent)
+    + [Support Vector Machines](#Support-Vector-Machines)
+  * [Random Forests](#Random-Forests)
+  * [KNN](#KNN)
 - [Conclusion](#Conclusion)
-* Model Analysis
-* Conclusion
 
 # Abstract
 
