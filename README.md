@@ -8,8 +8,8 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Data Collection and Analysis](#Data Collection and Analysis)
-  * [Data Cleaning](#Data Cleaning)
-  * [Data Analysis](#Data Analysis)
+  * [Data Cleaning](##Data Cleaning)
+  * [Data Analysis](##Data Analysis)
 - [Model Analysis](#Model Analysis)
   * [Logistic Regression](##Logistic Regression)
   * [Naive Bayes](##Naive Bayes)
@@ -27,6 +27,8 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 # Introduction
 
 # Data Collection and Analysis
+## Data Cleaning
+## Data Analysis
 
 # Model Analysis
 ## Logistic Regression
