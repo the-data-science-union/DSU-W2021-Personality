@@ -11,7 +11,7 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 
 # Abstract
 * There are many patterns between a person's personality traits, demographic characteristics, and interests—can we use some of this information to predict others?
-* Though there are numerous approaches to go about this, the models we chose to explore were Logistic Regression, Naives Bayes, Stochastic Gradient Descent, Random Forests, and KNN.
+* Though there are numerous approaches to go about this, the models we chose to explore were Logistic Regression, Naives Bayes, Support Vector Machines, Random Forests, and KNN.
 * Feature selection, hyperparameter tuning, and SMOTE were added to our models for optimization, efficiency, and to aid in prediction accuracy.
 * The biggest challenge we faced in the modeling process was dealing with an unbalanced distribution of classes.
 * We were able to achieve an accuracy of 94% for binary prediction with SVM using linear kernels with feature selection, and an accuracy of 71% for multinomial prediction with Naive Bayes classification.
