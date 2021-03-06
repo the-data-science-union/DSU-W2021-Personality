@@ -1,4 +1,4 @@
-# Predicting Personality Traits with Classification Models
+# Personality Classification Modeling
 ## The Data Science Union at UCLA
 Project Leads: [Karina Santoso](https://github.com/kcsantoso), [Madison Kohls](https://github.com/madisonkohls)
 
@@ -19,7 +19,7 @@ Project Members: [Anish Dulla](https://github.com/AnishDulla), [Elizabeth Gallme
 # Introduction
 From renowned psychological assessments to Buzzfeed quizzes, predicting aspects of a person from a given set of responses has always been of great interest. These predictions can allow us to understand the behavior of an individual or group, which can: refine clinical diagnoses of psychologists, enhance advertisement strategies for businesses, and bring self-awareness to individuals. For these reasons, our team had two main objectives. First, we wanted to see if we could accurately predict different aspects of a person based on a series of responses ranging from demographic to preference-based. Second, we wanted to determine what classification models were the best predictors for certain questions pertaining to our dataset.
 
-For the full report, see the attached [PDF]().
+For the full report, see the attached [PDF](https://github.com/the-data-science-union/DSU-W21-Personality/blob/main/Personality%20Classification%20Modeling%20Report.pdf).
 
 # Conclusion
 Model Conclusions:
